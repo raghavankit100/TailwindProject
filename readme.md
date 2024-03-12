@@ -1,1 +1,1 @@
-https://ibrahim1249.github.io/Tailwind_Major_Project/
+https://raghavankit100.github.io/TailwindProject/
